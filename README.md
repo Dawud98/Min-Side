@@ -7,11 +7,12 @@ Prosjektet er laget med vite og vanilla --template
 For å kjøre prosjektet må Node.js og pnpm være  installert
 
 # Installere prosjektet
-
 Etter at prosjektet er lastet ned, installer nødvendige pakker med:
-
-```sh
 pnpm install
 
-# Min-Side
-min nettside
+# Starte nettsiden
+for å starte nettsiden, kjør denne kommandoen i terminalen:
+pnpm dev
+
+Vite viser en addresse i terminalen. åpne addressen i nettleseren for å se min nettside.
+
